@@ -1,0 +1,89 @@
+body{
+backgr
+
+
+
+
+
+
+
+}
+.bg-img{
+   background-image:url(https://belongplay.ru/wp-content/uploads/2023/03/Counter-Strike-2.jpg);
+   width: 100%;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.knopka{
+    color: blue;
+}
+.best{
+    border-color: red;
+    color: orange;
+    width: 350px;
+    height: 70px;
+    text-shadow: 10px 10px 10px blueviolet;
+    border-radius: 100px;
+   
+}
+.best-ota{
+    text-align: center;
+  padding-top: 300px;
+  color: orangex;
+}
+
+.h2h2{
+    text-shadow:1px 1px 1px green ;
+    color: black;
+    background-color: black;
+
+}
+.igroki{
+    display: flex;
+    gap: 90px;
+    text-align: center;
+    
+}
+.h2h2h2{
+    text-shadow:1px 1px 1px green ;
+    color: black;
+    background-color: black;
+}
+.h2h2h2h2{
+    text-shadow:1px 1px 1px green ;
+    color: black;
+    background-color: black;
+}
+.footer-body{
+    background-color: yellow;
+    padding: 20px 0;
+}
+.allcard-footer{
+
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.box-footer{
+    display: flex;
+    gap: 10px;
+}
+.main-b{
+
+    margin-right: 350px;
+    margin-top: 30px;
+    box-shadow: 7px 7px 7px white;
+    font-size: 20px;
+    padding: 10px;
+    background-color: yellow;
+}
+.main-b:hover{
+    background-color: #5A5555;
+    color: white;
+p{
+    color: white;
+    font-size: 24px;
+}
